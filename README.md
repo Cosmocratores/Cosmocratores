@@ -57,4 +57,4 @@ Mi disciplina integra pipelines rigurosos de **DevSecOps**, pruebas **E2E QA** a
 
 * **Business Operations:** [cosmocratores.com](https://cosmocratores.com)
 * **Technical Portfolio:** [cosmocratores.dev](https://cosmocratores.dev)
-* **Professional Network:** [LinkedIn Profile](https://linkedin.com)
+* **Professional Network:** [Magneto Profile](https://web.magneto365.com/pl/victoremmanuelperealopez)
